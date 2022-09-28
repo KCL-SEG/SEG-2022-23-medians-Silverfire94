@@ -19,4 +19,3 @@ else:
     median = (numbers[int(middle)] + numbers[int(middle - 1)]) / 2
 
 print(median)
-print(numbers)
